@@ -21,6 +21,7 @@ public class RssEntry {
     private String updated;
     private DocumentLink link;
     private String description;
+    private String ttttttttttttttttttttttt;
 
     
     
