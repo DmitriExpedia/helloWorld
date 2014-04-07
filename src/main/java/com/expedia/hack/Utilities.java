@@ -1,5 +1,5 @@
 /**
- *
+ * Utility class
  * Utilities.java
  *
  * Copyright 2014 Expedia, Inc. All rights reserved.
