@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Context path="/polarisNews" docBase="polarisNews">
+	<ResourceLink global="jdbc/datasource/ec" name="jdbc/datasource/ec" type="javax.sql.DataSource" />
+</Context>
