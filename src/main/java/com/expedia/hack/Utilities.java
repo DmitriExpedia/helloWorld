@@ -1,5 +1,6 @@
 /**
- * Utility class
+ * Utility class. Contains utility methods.
+ * 
  * Utilities.java
  *
  * Copyright 2014 Expedia, Inc. All rights reserved.
