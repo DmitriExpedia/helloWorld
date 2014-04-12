@@ -14,7 +14,7 @@ import java.text.SimpleDateFormat;
 import javax.servlet.http.HttpServletRequest;
 
 /**
- * v-dmelnikov Describe Utilities
+ * Utilities
  * 
  * @author <a href="mailto:v-dmelnikov@expedia.com">v-dmelnikov</a>
  * 
